@@ -1,0 +1,12 @@
+{
+  "name": "lumiogames",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./",
+    "not_found_handling": "404-page"
+  },
+  "routes": [
+    { "pattern": "lumiogames.nl", "custom_domain": true },
+    { "pattern": "www.lumiogames.nl", "custom_domain": true }
+  ]
+}
